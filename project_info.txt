@@ -1,0 +1,34 @@
+1. Introduction.
+
+	The source layout is self descriptive. 
+
+2. Programming Guideline.
+	The basic programming guide line is such.
+
+	All Methods in the class to return only datastructers in the collection 
+	framework(Only Collections).
+
+	All DB Operation To do a lookup of Metadata and SQL Which Will Generate
+	an Object to be returned in collection.
+
+	All Net Operations to use an URI and return a Object Containing  URI and
+	Data(Generic Object). 
+
+3. Requirements
+	1. Translate SQL/Network Code/EJB/Servlets to return Generic Objects.
+	2. Generate Generic Object.
+	3. A basic Algorithmn to return Collections(Collection/HashMap Etc..).
+	4. A basic Generic Class.
+	5. A basic Algorithmn to return URI's and Generic Object.
+
+4. Project Distribution.
+	The DB/Net/Thread Source folder are to looked at by people who are new
+	to the project, have lesser experience, Looking for augmenting their Java
+	Skills.
+
+	The ejb/Servlet/Jndi are to be looked at by people with some previous Programming 
+	experience in java enterprise.
+
+	The generic and genericalgo(Generic Algorithms) are to be developed on need
+	of a requirement. and are developed by programmers with suitable experience.
+
