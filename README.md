@@ -1,14 +1,10 @@
 # 1. Introduction.
 
-	Used as reusable template, to define
- properties, which could be very much in the
+	Used as reusable template, to define properties, which could be very much in the
  Java Framework as such.
 
 # 2. Programming Guideline.
-	The basic programming guide line is such.
-  
- Use the project primarily to define the    
- configurations.
+	The basic programming guide line is such. Use the project primarily to define the configurations.
 
 # 3. Requirements
   Optimization Parameter should be central.
